@@ -32,7 +32,6 @@ O objetivo é criar um **site moderno, funcional e organizado**, com boa experi�
 ## 📂 Estrutura do Projeto
 Project-Site-html-css-Jacvascript
 │
-├── index.html
 ├── pages
 │ ├── home.html
 │ ├── sobreNos.html
@@ -72,7 +71,7 @@ Project-Site-html-css-Jacvascript
 ## 🎯 Objetivo do Projeto
 
 - Aprender **HTML semântico e organização de pastas**  
-- Praticar **CSS e Flexbox**  
+- Praticar **CSS**  
 - Implementar **JavaScript para interatividade**  
 - Treinar **Git/GitHub e versionamento**  
 - Criar um **site completo e apresentável para portfólio**
@@ -95,10 +94,6 @@ Project-Site-html-css-Jacvascript
 1. Clone o repositório:
 git clone https://github.com/marcos-thebest/Project-Site-html-css-Jacvascript.git
 
-
-2. Abra a pasta do projeto  
-3. Execute `index.html` no navegador
-
 ---
 
 ## 📌 Melhorias Futuras
@@ -113,7 +108,7 @@ git clone https://github.com/marcos-thebest/Project-Site-html-css-Jacvascript.gi
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Marcos**  
+Desenvolvido por **Marcos-thebest**  
 
 GitHub: [https://github.com/marcos-thebest](https://github.com/marcos-thebest)
 
