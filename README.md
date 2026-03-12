@@ -1,5 +1,13 @@
 # 🌐 Project Site - HTML, CSS & JavaScript
 
+![Website Badge](https://img.shields.io/badge/Website-HTML%2FCSS%2FJS-blue)
+![Status Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![License Badge](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+## 🎨 Sobre o Projeto
+
 Este projeto é um **site multi-páginas** desenvolvido para praticar **HTML, CSS e JavaScript**.  
 Ele inclui as páginas:
 
@@ -9,6 +17,15 @@ Ele inclui as páginas:
 - **Contato** – formulário interativo com validação  
 
 O objetivo é criar um **site moderno, funcional e organizado**, com boa experiência para o usuário.
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- Google Fonts (Fascinate)
 
 ---
 
@@ -34,37 +51,69 @@ Project-Site-html-css-Jacvascript
 
 ## 📸 Preview do Projeto
 
-### Tela inicial
-![Tela inicial do site](images/imagem1.png)
-
-### Seção Sobre Nós
-![Seção Sobre Nós](images/imagem2.png)
-
-### Seção FAQ
-![Seção FAQ](images/imagem3.png)
-
-### Formulário de Contato
-![Formulário de Contato](images/imagem4.png)
+![Preview do Site](https://via.placeholder.com/800x400.png?text=Seu+Site+Aqui)  
+> Substitua esta imagem por um GIF ou screenshot do seu site real.
 
 ---
 
 ## 🚀 Funcionalidades
 
 - Navegação entre páginas  
-- Layout responsivo básico  
+- Layout centralizado e responsivo  
 - Página **Home** com introdução  
-- Página **Sobre Nós** com informações  
+- Página **Sobre Nós** com informações e cards  
 - Página **FAQ** com perguntas expansíveis  
 - Página **Contato** com formulário interativo  
+- Animações leves via CSS e JavaScript  
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-- Aprender **HTML semântico**  
-- Praticar **CSS e Flexbox**  
+- Aprender **HTML semântico e organização de pastas**  
+- Praticar **CSS**  
 - Implementar **JavaScript para interatividade**  
-- Criar um **site completo e apresentável**
+- Treinar **Git/GitHub e versionamento**  
+- Criar um **site completo e apresentável para portfólio**
 
 ---
 
+## 📚 Aprendizados
+
+- Estruturação de múltiplas páginas  
+- Criação de menus e navegação  
+- Uso de formulários HTML e validação JS  
+- Flexbox e responsividade  
+- Interatividade com `<details>` e `<summary>`  
+- Controle de versão e envio para GitHub  
+
+---
+
+## 🌍 Como Executar o Projeto
+
+1. Clone o repositório:
+git clone https://github.com/marcos-thebest/Project-Site-html-css-Jacvascript.git
+
+---
+
+## 📌 Melhorias Futuras
+
+- Tornar o site totalmente responsivo  
+- Adicionar animações CSS/JS mais elaboradas  
+- Subir o site no **GitHub Pages**  
+- Melhorar design visual e cores  
+- Adicionar imagens reais e GIFs de demonstração
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Marcos-thebest**  
+
+GitHub: [https://github.com/marcos-thebest](https://github.com/marcos-thebest)
+
+---
+
+⭐ Se você gostou do projeto, dê uma **star** no repositório!
+
+---
