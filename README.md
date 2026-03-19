@@ -49,13 +49,6 @@ Project-Site-html-css-Jacvascript
 
 ---
 
-## 📸 Preview do Projeto
-
-![Preview do Site](https://via.placeholder.com/800x400.png?text=Seu+Site+Aqui)  
-> Substitua esta imagem por um GIF ou screenshot do seu site real.
-
----
-
 ## 🚀 Funcionalidades
 
 - Navegação entre páginas  
